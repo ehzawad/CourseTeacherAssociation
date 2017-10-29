@@ -22,6 +22,11 @@ namespace CourseConsoleApp
             ooad.AddTopic("Introduction to Modeling, UML, Use Case Diagram, Class Diagram");
             Console.WriteLine(ooad.ToString());
 
+            // Offsite Course
+            OffsiteCourse webTech = new OffsiteCourse("ASP.NET", stany, "Uttara");
+            webTech.AddTopic("PHP, JSON, JS, NetWork Security");
+            Console.WriteLine(webTech);
+
 
 
             // Checking Teacher Module
