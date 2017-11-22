@@ -1,0 +1,13 @@
+D:\Ashiq\task(assign)\FinalMan\Account\bin\Debug\Account.exe.config
+D:\Ashiq\task(assign)\FinalMan\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+D:\Ashiq\task(assign)\FinalMan\Account\bin\Debug\Account.exe
+D:\Ashiq\task(assign)\FinalMan\Account\bin\Debug\Account.pdb
+D:\Ashiq\task(assign)\FinalMan\Account\obj\Debug\Account.exe
+D:\Ashiq\task(assign)\FinalMan\Account\obj\Debug\Account.pdb
+C:\Users\emrul\Desktop\15-30142-2\Account\bin\Debug\Account.exe.config
+C:\Users\emrul\Desktop\15-30142-2\Account\bin\Debug\Account.exe
+C:\Users\emrul\Desktop\15-30142-2\Account\bin\Debug\Account.pdb
+C:\Users\emrul\Desktop\15-30142-2\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+C:\Users\emrul\Desktop\15-30142-2\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\emrul\Desktop\15-30142-2\Account\obj\Debug\Account.exe
+C:\Users\emrul\Desktop\15-30142-2\Account\obj\Debug\Account.pdb
