@@ -1,0 +1,11 @@
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\bin\Debug\HellloMessageBox.exe.config
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\bin\Debug\HellloMessageBox.exe
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\bin\Debug\HellloMessageBox.pdb
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.csprojResolveAssemblyReference.cache
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.Form1.resources
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.Properties.Resources.resources
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.csproj.GenerateResource.Cache
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.exe
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.pdb
+C:\Users\emrul\source\repos\HellloMessageBox\HellloMessageBox\obj\Debug\HellloMessageBox.Form2.resources
